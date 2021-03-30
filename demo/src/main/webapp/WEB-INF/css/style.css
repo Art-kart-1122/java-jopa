@@ -1,0 +1,41 @@
+.form-wrap {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    padding: 50px;
+    background-color: #7ee6ff;
+}
+.input-wrap {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.input-wrap input {
+    margin-left: 20px;
+    size: 20px;
+    height: auto;
+}
+
+.input-wrap p {
+    size: 20px;
+    font-weight: bold;
+}
+
+.submit-wrap {
+    display: flex;
+    justify-content: center;
+}
+
+.submit-wrap button {
+    size: 20px;
+    background-color: #2415ff;
+}
+
+.links-wrap {
+    display: flex;
+    justify-content: space-between;
+}
